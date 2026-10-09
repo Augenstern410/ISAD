@@ -81,7 +81,7 @@ git diff --check
 | 肖昳霖 | — |
 | 江文欣 | — |
 | 刘雨霏 | — |
-| 王檬缘 | — |
+| 王檬缘 |Augenstern410[|](https://github.com/Augenstern410)
 | 甘宇涵 | — |
 | 李子妍 | — |
 | 王宇 | — |
